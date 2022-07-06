@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Vet Clinic
+# Vetinary Clinic
 
 > This repo demonstrates the use of relational database to create the data structure for a vet clinic and store data about each pet's vet clinic.
 

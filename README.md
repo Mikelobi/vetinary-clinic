@@ -1,8 +1,13 @@
-# curriculum-databases-projects-template
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-> This template should be used for database related projects at Microverse.
-> Generate your own repository, update this README and edit all files content while working on projects. You should not be adding any new files unless asked otherwise.
+# Vet Clinic
 
+> This repo demonstrates the use of relational database to create the data structure for a vet clinic and store data about each pet's vet clinic.
+
+## Built With
+
+- MySQL
+- git
 
 ## Getting Started
 
@@ -15,23 +20,18 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 ## Authors
 
-👤 **Author1**
+👤 **Michael**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Mikelobi](https://github.com/Mikelobi)
+- Twitter: [@Mikelobi](https://twitter.com/@omulum)
+- LinkedIn: [@Mikelobi](https://linkedin.com/in/omulu)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Mikelobi/vetinary-clinic/issues).
 
 ## Show your support
 
